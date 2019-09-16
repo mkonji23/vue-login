@@ -1,0 +1,10 @@
+{
+    "development":{
+        "username":"root",
+        "password":"mkonji23",
+        "database":"nodejs_login1",
+        "host":"localhost",
+        "dialect":"mysql",
+        "operatorAliases":"false"
+    }
+}
